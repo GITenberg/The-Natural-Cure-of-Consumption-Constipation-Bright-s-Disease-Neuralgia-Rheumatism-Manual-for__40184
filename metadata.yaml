@@ -1,0 +1,31 @@
+_repo: The-Natural-Cure-of-Consumption-Constipation-Bright-s-Disease-Neuralgia-Rheumatism-Manual-for__40184
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Page, C. E. (Charles Edward)
+    aliases:
+    - Page, Charles E. (Charles Edward)
+    - Page, Charles Edward
+    birthdate: 1840
+    gutenberg_agent_id: '40459'
+    url: http://www.gutenberg.org/2009/agents/40459
+description: ''
+gutenberg_issued: '2012-07-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40184'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'RC'
+- !lcsh 'Medicine, Popular'
+- !lcsh 'Hygiene -- Popular works'
+title: "The Natural Cure of Consumption, Constipation, Bright's Disease, Neuralgia,\
+  \ Rheumatism, \"Colds\" (Fevers), Etc.\r\nHow Sickness Originates, and How to Prevent\
+  \ It. A Health Manual for the People."
+url: http://www.gutenberg.org/ebooks/40184
